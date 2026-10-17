@@ -13,9 +13,10 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'QQ音乐「回声」｜完整交互原型',
+  title: 'Build With AI · 腾讯音乐首届高校 AI Hackathon｜参赛作品 · QQ音乐「回声」',
   description:
-    '从轻提示、路线潜影到再次经过与听回那段路，完整体验无感记录、延迟显影、低打扰重逢。',
+    'Build With AI · 腾讯音乐首届高校 AI Hackathon 参赛作品：QQ音乐「回声」。让音乐与现实中的记忆重新相遇。',
+  icons: { icon: '/favicon.svg?v=memory-ring-1' },
 };
 
 export default function RootLayout({
