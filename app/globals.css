@@ -57,7 +57,7 @@ audio { display: none; }
   backdrop-filter: blur(30px);
 }
 .brand-row { display: flex; align-items: center; gap: 12px; }
-.qq-mark { width: 41px; height: 41px; display: grid; place-items: center; border-radius: 14px; background: #00e982; box-shadow: 0 12px 25px rgba(0, 195, 106, .2); }
+.qq-mark { width: 41px; height: 41px; display: grid; place-items: center; border-radius: 14px; background: #13ee8c; color: #09251b; box-shadow: 0 12px 25px rgba(0, 195, 106, .2); }
 .qq-mark svg { width: 19px; }
 .brand-row p { margin: 0 0 2px; color: #8b9390; font-size: 10px; font-weight: 650; letter-spacing: .08em; }
 .brand-row h1 { margin: 0; font-size: 20px; letter-spacing: -.04em; }

@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   title: 'Build With AI · 腾讯音乐首届高校 AI Hackathon｜参赛作品 · QQ音乐「回声」',
   description:
     'Build With AI · 腾讯音乐首届高校 AI Hackathon 参赛作品：QQ音乐「回声」。让音乐与现实中的记忆重新相遇。',
-  icons: { icon: '/favicon.svg?v=memory-ring-1' },
+  icons: { icon: '/favicon.svg?v=homepage-radio-2' },
 };
 
 export default function RootLayout({
